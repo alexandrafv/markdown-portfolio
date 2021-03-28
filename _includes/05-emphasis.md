@@ -1,4 +1,4 @@
-_I like R_
+_I only know R_
 
 I'm starting to learn **Python**
 
