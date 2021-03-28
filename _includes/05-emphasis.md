@@ -1,1 +1,5 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+_I like R_
+I'm starting to learn **Python**
+__This will also be bold__
+
+✨ _And statistics makes my head **hurt** _ ✨
